@@ -12,7 +12,7 @@
   },  
   
   {
-    "title":"THE 0SUN 닷컴 쇼핑몰 개발 (완료 - 마무리진행중)",
+    "title":"[모바일 전용] THE 0SUN 닷컴 쇼핑몰 개발 (완료 - 마무리진행중)",
     "date":"2022",
     "content": "<p><a href='https://the.0sun.net'>[ 사이트 바로가기 ]</a></p><p>- 기술스펙 : React, Recoil, GraphQL, Knex, react-query, vite</p><p>- 클라우드 서버 : FRONT - vercel / BACK - heroku, postgresql / Image server - Cloud Flare</p>",
     "language":"React",
