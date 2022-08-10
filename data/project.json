@@ -6,7 +6,7 @@
     "language":"React",
     "firstImage":"img/portfolio/react/component.png",
     "DetailImages":[{
-      "image":"img/portfolio/react/component.png",
+      "image":"img/portfolio/react/1.png",
       "descriptions":"- 현대백화점 해외브랜드 (COS, AOS, ARKET, TOTEME) 관리 페이지"
     }]
   },  
@@ -30,7 +30,7 @@
     "language":"React",
     "firstImage":"img/portfolio/react/board.jpg",
     "DetailImages":[{
-      "image":"img/portfolio/react/board.jpg",
+      "image":"img/portfolio/react/1.png",
       "descriptions":
       "간단한 리액트 기반의 게시판"
 
