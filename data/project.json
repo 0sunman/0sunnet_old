@@ -1,0 +1,509 @@
+[
+  {
+    "title":"ARKET 리뉴얼 프로젝트 / 사이트 UI개발 / 콘텐츠 관리 / 유지보수",
+    "date":"2021 ~",
+    "content":"- ARKET 프로젝트<br>- 사이트 UI개발(Frontend)<br>- 컨텐츠 관리 및 효율화 <br>- UI개발 빌더 개발<br>- 사이트 성능 향상 진행 (기존대비 50% 효율 향상)",
+    "language":"Javascript,CSS,HTML",
+    "firstImage":"img/portfolio/arket/1.png",
+    "DetailImages":[{
+      "image":"img/portfolio/arket/1.png",
+      "descriptions":
+      "<p>- ARKET 프로젝트 진행 / 사이트 UI개발 / 콘텐츠 관리</p>"
+    }]
+  },  
+  {
+    "title":"TOTEME 리뉴얼 프로젝트 / 사이트 UI개발 / 콘텐츠 관리 / 유지보수",
+    "date":"2021 ~",
+    "content":"- COS 리뉴얼 프로젝트<br>- 사이트 UI개발(Frontend)<br>- 컨텐츠 관리 및 효율화 <br>- UI개발 빌더 개발<br>- 사이트 성능 향상 진행 (기존대비 50% 효율 향상)",
+    "language":"Javascript,CSS,HTML",
+    "firstImage":"img/portfolio/toteme/1.jpg",
+    "DetailImages":[{
+      "image":"img/portfolio/toteme/1.jpg",
+      "descriptions":
+      "<p>- TOTEME 프로젝트 진행 / 사이트 UI개발 / 콘텐츠 관리</p>"
+    }]
+  },  
+  {
+    "title":"Hmall H&M 브랜드 컨텐츠 관리 및 유지보수",
+    "date":"2019 ~",
+    "content":"- 사이트 UI개발(Frontend)<br>- 컨텐츠 관리 및 효율화<br>- Atlassian 솔루션을 이용하여 버젼 관리(Git)",
+    "language":"Javascript,CSS,HTML",
+    "firstImage":"img/portfolio/hmall/1.png",
+    "DetailImages":[{
+      "image":"img/portfolio/hmall/1.png",
+      "descriptions":
+      "<p>- Hmall H&M 관련 UI개발 및 콘텐츠 관리</p>"
+    }]
+  },  
+  {
+    "title":"더현대닷컴 H&M 브랜드 컨텐츠 관리 및 유지보수",
+    "date":"2018 ~",
+    "content":"- 사이트 UI개발(Frontend)<br>- 컨텐츠 관리 및 효율화<br>- Atlassian 솔루션을 이용하여 버젼 관리(Git)",
+    "language":"Javascript,CSS,HTML",
+    "firstImage":"img/portfolio/thehyundai/1.png",
+    "DetailImages":[{
+      "image":"img/portfolio/thehyundai/1.png",
+      "descriptions":
+      "<p>- 더현대닷컴 H&M 관련 UI개발 및 콘텐츠 관리</p>"
+    }]
+  },  
+  {
+    "title":"COS 리뉴얼 프로젝트 / 사이트 UI개발 / 콘텐츠 관리 / 유지보수",
+    "date":"2018 ~",
+    "content":"- COS 리뉴얼 프로젝트<br>- 사이트 UI개발(Frontend)<br>- 컨텐츠 관리 및 효율화<br>- 사이트 성능 향상 진행 (기존대비 50% 효율 향상)",
+    "language":"Javascript,CSS,HTML",
+    "firstImage":"img/portfolio/cos/1.png",
+    "DetailImages":[{
+      "image":"img/portfolio/cos/1.png",
+      "descriptions":
+      "<p>- COS 사이트 UI개발 및 콘텐츠 관리</p>"
+    }]
+  },  
+  {
+    "title":"AOS 사이트 UI개발 / 콘텐츠 관리 / 유지보수",
+    "date":"2018 ~",
+    "content":"<br>- 사이트 UI개발(Frontend)<br>- 컨텐츠 관리 및 효율화<br>- 사이트 성능 향상 진행 (기존대비 50% 효율 향상)",
+    "language":"Javascript,CSS,HTML",
+    "firstImage":"img/portfolio/aos/1.png",
+    "DetailImages":[{
+      "image":"img/portfolio/aos/1.png",
+      "descriptions":
+      "<p>- AOS 사이트 UI개발 및 콘텐츠 관리</p>"
+    }]
+  },
+  {
+  "title":"신한카드 홈페이지 리뉴얼 프로젝트",
+  "date":"2013-03-06 ~ 2013-06-07",
+  "content":"Printmade2 적용",
+  "language":"Java,Javascript,CSS,HTML",
+  "firstImage":"img/portfolio/shinhancard/1.png",
+  "DetailImages":[{
+    "image":"img/portfolio/shinhancard/2013/2.PNG",
+    "descriptions":"신한카드 프린트메이드 뷰어 화면"
+  },{
+    "image":"img/portfolio/shinhancard/2013/3.PNG",
+    "descriptions":"신한카드 미리보기 화면"
+  }]
+},
+{
+  "title":"수협은행 차세대 프로젝트",
+  "date":"2016-02-12 ~ 2016-07-20",
+  "content":"Printmade3 튜닝 및 적용",
+  "language":"Java,Javascript,CSS,HTML,C++",
+  "firstImage":"img/portfolio/suhyup/1.png",
+  "DetailImages":[{
+    "image":"img/portfolio/suhyup/2016/K-015.png",
+    "descriptions":"수협 인쇄 전 화면"
+  },{
+    "image":"img/portfolio/suhyup/2016/K-016.png",
+    "descriptions":"수협 인쇄 이후 화면"
+  }]
+},
+{
+  "title":"신한은행 개인뱅킹시스템 재구축 프로젝트",
+  "date":"2016-09-26 ~ 2017-05-30",
+  "content":"<p>HTML5 기반 EasyPrint 적용</p><p>인스웨이브의 웹스퀘어 기반의 홈페이지에 Printmade3, EasyPrint를 연동함</p>",
+  "language":"Java,Javascript,CSS,HTML,C++",
+  "firstImage":"img/portfolio/shinhanbank/1.jpg",
+  "DetailImages":[{
+    "image":"img/portfolio/shinhanbank/2016/K-004.png",
+    "descriptions":"신한은행 인쇄 전 화면"
+  },{
+    "image":"img/portfolio/shinhanbank/2016/K-005.png",
+    "descriptions":"신한은행 프린트메이드 화면"
+  },{
+    "image":"img/portfolio/shinhanbank/2016/K-013.png",
+    "descriptions":"HTML5 기반 EasyPrint 대기화면"
+  },{
+    "image":"img/portfolio/shinhanbank/2016/K-014.png",
+    "descriptions":"HTML5 기반 EasyPrint 화면"
+  }]
+},
+{
+  "title":"씨티은행 프린트 솔루션 도입",
+  "date":"2016-07-03 ~ 2017-06-27",
+  "content":"<p>- Printmade3 튜닝 및 적용</p><p>- 프린트메이드 로컬 인증서 관련 문제 처리</p>",
+  "language":"Java,Javascript,CSS,HTML,C++",
+  "firstImage":"img/portfolio/citi/1.png",
+  "DetailImages":[{
+    "image":"img/portfolio/citi/2016/K-004.png",
+    "descriptions":"씨티은행 프린트메이드 인쇄 전 화면"
+  },{
+    "image":"img/portfolio/citi/2016/K-005.png",
+    "descriptions":"씨티은행 프린트메이드 인쇄 대기화면"
+  },{
+    "image":"img/portfolio/citi/2016/K-006.png",
+    "descriptions":"씨티은행 프린트메이드 인쇄화면"
+  }]
+},
+{
+  "title":"대구은행 웹사이트 고도화 프로젝트",
+  "date":"2013-03-02 ~ 2013-08-01",
+  "content":"Printmade2 튜닝 및 적용",
+  "language":"Java,Javascript,CSS,HTML",
+  "firstImage":"img/portfolio/dgb/1.png",
+  "DetailImages":[{
+    "image":"img/portfolio/dgb/2013/2.png",
+    "descriptions":"프린트메이드 인쇄 전 화면"
+  },{
+    "image":"img/portfolio/dgb/2013/3.png",
+    "descriptions":"프린트메이드 페이지 인쇄 화면"
+  },{
+    "image":"img/portfolio/dgb/2013/4.png",
+    "descriptions":"프린트메이드 팝업 인쇄 화면"
+  }]
+},
+{
+  "title":"대구은행 프린트 솔루션 업그레이드",
+  "date":"2016-05-24 ~ 2016-07-20",
+  "content":"Printmade3 튜닝 및 적용",
+  "language":"Java,Javascript,CSS,HTML",
+  "firstImage":"img/portfolio/dgb/1.png",
+  "DetailImages":[{
+    "image":"img/portfolio/dgb/2016/K-005.png",
+    "descriptions":"프린트메이드3 인쇄 전 화면"
+  },{
+    "image":"img/portfolio/dgb/2016/K-006.png",
+    "descriptions":"프린트메이드3 페이지 인쇄대기 화면"
+  },{
+    "image":"img/portfolio/dgb/2016/K-007.png",
+    "descriptions":"프린트메이드3 실행 화면"
+  }]
+},
+{
+  "title":"한국거래소 사이버자동검색 모니터링 시스템 프로젝트",
+  "date":"2013-11-08 ~ 2013-12-30",
+  "content":"Printmade2 튜닝 및 적용",
+  "language":"Javascript,CSS,HTML,Delphi,Java",
+  "firstImage":"img/portfolio/krx/1.jpg",
+  "DetailImages":[{
+    "image":"img/portfolio/krx/2013/pdf.png",
+    "descriptions":"프린트메이드로 pdf 출력 결과"
+  }]
+},
+{
+  "title":"기업은행 프린트 솔루션 업그레이드",
+  "date":"2015-04-01 ~ 2015-10-30",
+  "content":"Printmade3 적용",
+  "language":"Java,Javascript,CSS,HTML,C++",
+  "firstImage":"img/portfolio/ibk/1.png",
+  "DetailImages":[{
+    "image":"img/portfolio/ibk/1.png",
+    "descriptions":"Printmade3 적용"
+  }]
+},
+{
+  "title":"한국문화관광연구원 프린트 솔루션 도입",
+  "date":"2014-03-02 ~ 2014-04-25",
+  "content":"Printmade2 적용",
+  "language":"Java,Javascript,CSS,HTML",
+  "firstImage":"img/portfolio/kcri/1.jpg",
+  "DetailImages":[{
+    "image":"img/portfolio/kcri/1.jpg",
+    "descriptions":"Printmade2 적용"
+  },{
+    "image":"img/portfolio/kcri/2014/1.png",
+    "descriptions":"인쇄 전 화면"
+  },{
+    "image":"img/portfolio/kcri/2014/2.png",
+    "descriptions":"뷰어 화면"
+  }]
+},
+{
+  "title":"한국건축사협회 프린트 솔루션 도입",
+  "date":"2014-02-02 ~ 2014-03-25",
+  "content":"Printmade2 적용",
+  "language":"Java,Javascript,CSS,HTML",
+  "firstImage":"img/portfolio/kira/1.gif",
+  "DetailImages":[{
+    "image":"img/portfolio/kira/1.gif",
+    "descriptions":"Printmade2 적용"
+  },{
+    "image":"img/portfolio/kira/2014/1.png",
+    "descriptions":"인쇄 전 화면"
+  },{
+    "image":"img/portfolio/kira/2014/2.png",
+    "descriptions":"뷰어 화면"
+  }]
+},
+{
+  "title":"RITIS(KIAT) 프린트 솔루션 도입",
+  "date":"2014-01-22 ~ 2014-04-30",
+  "content":"Printmade2 적용",
+  "language":"Java,Javascript,CSS,HTML",
+  "firstImage":"img/portfolio/ritis/1.jpg",
+  "DetailImages":[{
+    "image":"img/portfolio/ritis/2014/1.png",
+    "descriptions":"프린트메이드2 인쇄화면"
+  },{
+    "image":"img/portfolio/ritis/2014/1.png",
+    "descriptions":"프린트메이드2 인쇄화면"
+  },{
+    "image":"img/portfolio/ritis/2014/1.png",
+    "descriptions":"프린트메이드2 전 인쇄화면"
+  },{
+    "image":"img/portfolio/ritis/2014/1.png",
+    "descriptions":"프린트메이드2 오브젝트(ActiveX) 인쇄화면"
+  }]
+},
+{
+  "title":"KERIS 유치원공시시스템 프로젝트",
+  "date":"2013-11-19 ~ 2014-02-10",
+  "content":"Printmade2 적용",
+  "language":"Java,Javascript,CSS,HTML",
+  "firstImage":"img/portfolio/keris/1.jpg",
+  "DetailImages":[{
+    "image":"img/portfolio/keris/2013/1.png",
+    "descriptions":"프린트메이드2 인쇄 전 화면"
+  },{
+    "image":"img/portfolio/keris/2013/2.png",
+    "descriptions":"프린트메이드2 인쇄 화면"
+  }]
+},
+{
+  "title":"KIAT WORLD CLASS 300 프로젝트",
+  "date":"2014-01-22 ~ 2014-02-30",
+  "content":"Printmade2 적용",
+  "language":"Java,Javascript,CSS,HTML",
+  "firstImage":"img/portfolio/kiat/1.jpg",
+  "DetailImages":[{
+    "image":"img/portfolio/kiat/1.jpg",
+    "descriptions":"Printmade2 적용"
+  }]
+},
+{
+  "title":"농심 통합그룹웨어 프로젝트",
+  "date":"2014-01-24 ~ 2014-12-02",
+  "content":"<p>나온소프트 그룹웨어에 Printmade2 적용</p>",
+  "language":"Java,Javascript,CSS,HTML",
+  "firstImage":"img/portfolio/nongshim/1.jpg",
+  "DetailImages":[{
+    "image":"img/portfolio/nongshim/2014/Webkit.png",
+    "descriptions":"그룹웨어에서 출력한 결과"
+  }]
+},
+{
+  "title":"경동도시가스 통합 그룹웨어 프로젝트",
+  "date":"2014-08-01 ~ 2014-11-01",
+  "content":"<p>나온소프트 그룹웨어에 Printmade2 적용</p>",
+  "language":"Java,Javascript,CSS,HTML",
+  "firstImage":"img/portfolio/kd/1.png",
+  "DetailImages":[{
+    "image":"img/portfolio/kd/1.png",
+    "descriptions":"Printmade2 적용"
+  }]
+},
+{
+  "title":"부산은행 그룹웨어 프로젝트",
+  "date":"2013-10-10 ~ 2014-04-01",
+  "content":"<p>- Printmade2 튜닝 및 적용</p><p>- 프린트메이드2 스크롤캡처 라이브러리 수정함(Win32 API, Delphi, C++)</p>",
+  "language":"Javascript,C++,.NET",
+  "firstImage":"img/portfolio/bnk/1.png",
+  "DetailImages":[{
+    "image":"img/portfolio/bnk/2014/2.png",
+    "descriptions":"프린트메이드 인쇄 전 화면"
+  },{
+    "image":"img/portfolio/bnk/2014/3.png",
+    "descriptions":"프린트메이드 결과화면"
+  }]
+},
+{
+  "title":"신한은행 기업뱅킹시스템 재구축 프로젝트",
+  "date":"2013-03-27 ~ 2013-07-30",
+  "content":"<p>- Printmade3 적용 </p><p>- TobeSoft의 넥사크로플랫폼을 Printmade3와 연동하는 작업을 수행함.</p>",
+  "language":"Javascript,CSS,HTML,C++",
+  "firstImage":"img/portfolio/shinhanbank/1.jpg",
+  "DetailImages":[{
+    "image":"img/portfolio/shinhanbank/2014/3.png",
+    "descriptions":"프린트메이드2 인쇄 이전 (넥사크로플랫폼 화면)"
+  },{
+    "image":"img/portfolio/shinhanbank/2014/4.png",
+    "descriptions":"프린트메이드3 인쇄 이후 (넥사크로플랫폼을 프린트메이드에 적용)"
+  }]
+},
+{
+  "title":"학교알리미 프린트 솔루션 도입 프로젝트",
+  "date":"2015-09-08 ~ 2015-12-30",
+  "content":"Printmade3 적용",
+  "language":"Java,Javascript,CSS,HTML,C++",
+  "firstImage":"img/portfolio/keris/1.jpg",
+  "DetailImages":[{
+    "image":"img/portfolio/keris/2015/K-017.png",
+    "descriptions":"프린트메이드3 인쇄 전"
+  },{
+    "image":"img/portfolio/keris/2015/K-018.png",
+    "descriptions":"프린트메이드3 인쇄 화면"
+  }]
+},
+{
+  "title":"행정자치부 수혜자 중심 맞춤형 서비스 프로젝트",
+  "date":"2015-11-05 ~ 2016-04-30",
+  "content":"<p>- Printmade3 튜닝 및 적용</p><p>- 페이지 구분선이 글자 위로 안내려가는 기능 추가.(Javascript)</p><p>- Printmade3 텍스트 랜더링 기능 강화</p>",
+  "language":"Java,Javascript,CSS,HTML,C++",
+  "firstImage":"img/portfolio/moi/1.jpg",
+  "DetailImages":[{
+    "image":"img/portfolio/moi/2015/1.png",
+    "descriptions":"프린트메이드3 인쇄 전"
+  },{
+    "image":"img/portfolio/moi/2015/2.png",
+    "descriptions":"프린트메이드3 인쇄 후 (텍스트 랜더링 기능 강화)"
+  }]
+},
+{
+  "title":"신한카드 차세대 Non-ActiveX 사업",
+  "date":"2015-07-03 ~ 2016-04-01",
+  "content":"Printmade3 튜닝 및 적용",
+  "language":"Java,Javascript,CSS,HTML,C++",
+  "firstImage":"img/portfolio/shinhancard/1.png",
+  "DetailImages":[{
+    "image":"img/portfolio/shinhancard/2016/K-001.png",
+    "descriptions":"신한카드 인쇄 전"
+  },{
+    "image":"img/portfolio/shinhancard/2016/K-002.png",
+    "descriptions":"신한카드 인쇄 대기 화면"
+  },{
+    "image":"img/portfolio/shinhancard/2016/K-003.png",
+    "descriptions":"프린트메이드3 구동 화면"
+  }]
+},
+{
+  "title":"한우리 프린트메이드 도입",
+  "date":"2014-07-18 ~ 2015-01-04",
+  "content":"Printmade3 적용",
+  "language":"Java,Javascript,CSS,HTML,C++",
+  "firstImage":"img/portfolio/hanuri/1.gif",
+  "DetailImages":[{
+    "image":"img/portfolio/hanuri/2014/1.gif",
+    "descriptions":"<p>SVG로 구성된 한우리 평가서와 Printmade3 연동작업</p>"
+  },{
+    "image":"img/portfolio/hanuri/2014/2.png",
+    "descriptions":"<p>SVG로 구성된 한우리 평가서와 Printmade3 연동작업</p>"
+  }]
+},
+{
+  "title":"유진투자증권 프린트메이드 도입",
+  "date":"2016-06-24 ~ 2016-07-11",
+  "content":"Printmade3 적용",
+  "language":"Java,Javascript,CSS,HTML,C++",
+  "firstImage":"img/portfolio/youjin/1.png",
+  "DetailImages":[{
+    "image":"img/portfolio/youjin/1.png",
+    "descriptions":"Printmade3 적용"
+  }]
+},
+{
+  "title":"하나투어 프린트 솔루션 도입 ",
+  "date":"2016-07-06 ~ 2016-09-01",
+  "content":"<p>- Printmade3 튜닝 및 적용</p> <p>- Printmade3 저장 기능 사용시, HTTP 요청 기능 추가 개발 (C++), </p>",
+  "language":"Java,Javascript,CSS,HTML,C++",
+  "firstImage":"img/portfolio/hanatour/1.png",
+  "DetailImages":[{
+    "image":"img/portfolio/hanatour/2016/K-003.png",
+    "descriptions":"하나투어 프린트메이드 인쇄전 화면"
+  },{
+    "image":"img/portfolio/hanatour/2016/K-002.png",
+    "descriptions":"하나투어 프린트메이드 대기화면"
+  },{
+    "image":"img/portfolio/hanatour/2016/K-004.png",
+    "descriptions":"하나투어 프린트메이드 화면"
+  }]
+},
+{
+  "title":"KISA 16년 웹 표준 전환 기업 지원",
+  "date":"2016-03-01 ~ 2016-12-01",
+  "content":"HTML5기반 EasyPrint 개발",
+  "language":"Java,Javascript,CSS,HTML,C++",
+  "firstImage":"img/portfolio/kisa/1.png",
+  "DetailImages":[{
+    "image":"img/portfolio/kisa/1.png",
+    "descriptions":"HTML5기반 EasyPrint 개발"
+  }]
+},
+{
+  "title":"기업은행 비대면채널 혁신 프로젝트",
+  "date":"2016-07-12 ~ 2017-04-01",
+  "content":"<p>- Printmade3 튜닝 및 적용</p><p>- Printmade3와 RealGrid 연동작업 진행</p>",
+  "language":"Java,Javascript,CSS,HTML,C++",
+  "firstImage":"img/portfolio/ibk/1.png",
+  "DetailImages":[{
+    "image":"img/portfolio/ibk/2016/K-009.png",
+    "descriptions":"프린트메이드 인쇄 전 화면"
+  },{
+    "image":"img/portfolio/ibk/2016/K-010.png",
+    "descriptions":"프린트메이드3 뷰어 화면"
+  }]
+},
+{
+  "title":"산업은행 웹표준화 프로젝트",
+  "date":"2016-08-01 ~ 2017-03-20",
+  "content":"HTML5 기반 EasyPrint 적용",
+  "language":"Java,Javascript,CSS,HTML",
+  "firstImage":"img/portfolio/kdb/1.png",
+  "DetailImages":[{
+    "image":"img/portfolio/kdb/2016/K-011.png",
+    "descriptions":"산업은행 인쇄 전 화면"
+  },{
+    "image":"img/portfolio/kdb/2016/K-012.png",
+    "descriptions":"산업은행 인쇄 이후 화면"
+  }]
+},
+{
+  "title":"외환은행 통합 이메일 시스템 구축 프로젝트",
+  "date":"2013-03-27 ~ 2013-07-30",
+  "content":"Printmade2 적용",
+  "language":"Java,Javascript,CSS,HTML",
+  "firstImage":"img/portfolio/keb/1.jpg",
+  "DetailImages":[{
+    "image":"img/portfolio/keb/2013/1.png",
+    "descriptions":"Printmade2 적용"
+  }]
+},
+{
+  "title":"IBK 오픈뱅킹 서비스 확대 구축",
+  "date":"2013-06-19 ~ 2014-02-30",
+  "content":"Printmade2 적용",
+  "language":"Java,Javascript,CSS,HTML",
+  "firstImage":"img/portfolio/ibk/1.png",
+  "DetailImages":[{
+    "image":"img/portfolio/ibk/1.png",
+    "descriptions":"오픈뱅킹 프린트메이드3 적용"
+  }]
+},
+{
+  "title":"포스코 프린트메이드 3 도입",
+  "date":"2017-07~10 ~ 2017-08-30",
+  "content":"Printmade3 튜닝 및 적용 (세션부분 튜닝)",
+  "language":"Java,Javascript,CSS,HTML,C++",
+  "firstImage":"img/portfolio/posco/1.png",
+  "DetailImages":[{
+    "image":"img/portfolio/posco/1.png",
+    "descriptions":
+    "<p>- Printmade3 튜닝 및 적용</p><p>- Printmade3 세션 유지 기능 추가</p>"
+  }]
+},
+{
+  "title":"국가인권위원회 프린트메이드 3 도입",
+  "date":"2016-10-01 ~ 2017-03-30",
+  "content":"Printmade3 튜닝 및 적용 (세션부분 튜닝)",
+  "language":"Java,Javascript,CSS,HTML,C++",
+  "firstImage":"img/portfolio/humanright/1.png",
+  "DetailImages":[{
+    "image":"img/portfolio/humanright/2016/1.png",
+    "descriptions":"프린트메이드3 인쇄 전"
+  },{
+    "image":"img/portfolio/humanright/2016/2.png",
+    "descriptions":"프린트메이드3 인쇄 후"
+  }]
+},
+{
+  "title":"예람 프린트메이드2 도입",
+  "date":"2013-09-11 ~ 2013-10-30",
+  "content":"Printmade2 적용",
+  "language":"Java,Javascript,CSS,HTML",
+  "firstImage":"img/portfolio/yeram/1.png",
+  "DetailImages":[{
+    "image":"img/portfolio/yeram/2013/2.JPG",
+    "descriptions":"Printmade2 적용화면"
+  }]
+}
+]
