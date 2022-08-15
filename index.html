@@ -367,6 +367,16 @@
   <meta name="naver-site-verification" content="a57378f82970b20a0061069ac060ef2962ed3a7b" />
 </head>
   <body style="background-color:#fafafa">
+    <!-- 
+      이 홈페이지를 2016~2017년쯔음 만들었습니다.
+      거의 5 - 6년가까이 되었네요.. 
+      이걸 리액트로 만들까 뷰로 만들까 고민을 되게 많이 했었는데...
+      거의 하루만에 후다닥 만들어서 그냥 계속 쓰고있습니다.
+      
+      아 리뉴얼 해야하는데... 올해 안에는 꼭 할려구요!
+                                    - 2022 유영선
+
+    -->
     <div id="dimmed" onclick="closePopup()" style="width:100%;height:100%;position:fixed;background-color:black;z-index:999;opacity:.5;display:none;"></div>
     <!-- Modal Structure -->
     <nav class="nav-extended">
@@ -420,7 +430,9 @@
         </div>
       </div>
       <div class="comment row">
-        <div class="col s12 m6" style="color:#aaa;font-size:12px;"><div>#Frontend #Backend #Javascript #Java #C++ #Spring #QtFrameWork #EasyPrint #Delphi #C #Angular #React #NodeJS #Printmade</div></div>
+        <div class="col s12 m6" style="color:#aaa;font-size:12px;">
+          <div>학교다닐때 Java만 했어요.<br>Java개발자 뽑는대서 입사했는데, 계속 Javascript만 시키더라구요.<br>다음 회사에서도 Javascript만 사용하게되면서 어느덧 10년이 흘렀습니다.<br>백앤드도 좋아하지만 프론트앤드 개발을 특히 더 좋아합니다.<br>매일 부족함을 느끼기에 매일 책과 강의를 삽니다<br>매년 꾸준히 사고 있습니다<br>결제의 달인 Javascript 10년차 개발자</div>
+          <div style="margin-top:10px;">#Frontend #Javascript #Typescript #React #Backend #GraphQL #상태관리 #Java #C++ #Spring #QtFrameWork #EasyPrint #Delphi #C #Angular #NodeJS #Printmade</div></div>
       </div>
 
     </div>
@@ -532,6 +544,8 @@
         $(".myprofile > .modal-content > .mycontent .list."+name+" .pcontent").append("<div class='title' style='display:block;'>"+this.name+" ("+this.date+")</div>")
       })
     }
+    //    //"",
+
     var project = $.ajax({
       url: "data/project.json",
       success:function(data){
@@ -565,10 +579,27 @@
 
           }
           $(target+" > div> .photowrap").append('<div class="swiper-pagination"></div>');
-
           $(target+" > div").append('<div class="content" style="width:30%;float:left;display:inline-block;"></div>');
           $(target+" > div .content").append('<div style="padding:20px;display:block;height:10%;border:0px;font-size:12px;border-color:#eee;border-bottom-width:1px;border-style:solid;text-overflow: ellipsis;overflow: hidden;">'+this.title+'</div>');
-          $(target+" > div .content").append('<div class="rcontent" style="padding:20px;display:block;height:70%;font-size:12px;text-overflow: ellipsis;">'+this.content+'</div>');
+          var content = this.content;
+          if(typeof content === 'string'){
+            $(target+" > div .content").append('<div class="rcontent" style="padding:20px;display:block;height:70%;font-size:12px;text-overflow: ellipsis;">' +
+            content
+            +            
+          '</div>');
+
+          }else{
+            content.push("<p style='font-weight:bold; color:red; font-size:18px;'>* 이미지 캐러셀을 확인하신 후, 설명(토스트)을 참고해주세요!</p>");
+            $(target+" > div .content").append('<div class="rcontent" style="padding:20px;display:block;height:70%;font-size:12px;text-overflow: ellipsis;">' +
+            content.reduce(function(a,v){
+              a += "<p>"+v+"</p>";
+              return a;
+            },"")
+            +            
+          '</div>');
+
+          }
+          
           $(target+" > div .content").append('<div style="padding:10px 20px 20px 20px;display:block;height:10%;color:#252525;border:0px;font-size:12px;border-color:#eee;border-top-width:1px;border-style:solid;">'+("#"+this.language.split(",").join(" #"))+'</div>');
           $(target+" > div .content").append('<div style="padding:10px 20px 20px 20px;display:block;height:5%;color:#aaa;border:0px;font-size:12px;border-color:#eee;border-top-width:1px;border-style:solid;">'+this.date+'</div>');
           $(target+" > div .content").append('<div class="popCloseButton" style="width:20px;height:20px;position:absolute;top:0;right:5px;" onclick="closePopup()"><i class="material-icons" style="margin:0">close</i></div>');

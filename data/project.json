@@ -1,86 +1,195 @@
 [
   {
-    "title":"해외브랜드 컴포넌트 관리 툴 개발 (진행)",
+    "title":"해외브랜드 컴포넌트 관리 툴 개발 (진행중)",
     "date":"2022",
-    "content": "<p><a href='https://ts.0sun.net'>[ 사이트 바로가기 ]</a></p><p>- 기술스펙 : React, Recoil, GraphQL, Knex, react-query, vite</p><p>- 클라우드 서버 : FRONT - vercel / BACK - heroku, postgresql / Image server - Cloud Flare</p>",
+    "content": 
+    [
+      "<p style='font-weight:bold; font-size:18px;'><a href='https://ts.0sun.net'>[ 사이트 바로가기 ]</a></p>",
+      "<p>- 역할 : 유영선(기획&개발) </p>",
+      "<p>- 설명 : HTML 요소에 data-target-control를 추가하여 비개발인력에게 편집가능한 마크업코드 전달</p>",
+      "<p>- 기술스펙 : React(Typescript), Recoil, GraphQL, Knex, Cloud-Flare Image, react-query, vite</p>",
+      "<p>- 클라우드 서버 : FRONT - vercel / BACK - heroku, postgresql / Image server - Cloud Flare</p>",
+      "<p>- 도와주신분들 : 박일묵 책임님(현대백화점 - 피드백) / 박수진 선임님(현대백화점 - 아이디어 제공)</p>",
+      "<p><a href='https://github.com/0sunman/hdeptcomponenttool'>[ Github 바로가기 ]</a></p>",
+      "<p>* 여럿이서 사용할때는 철저하게 브랜치따서 진행하고 컴플릭을 해결하지만... 혼자 진행하는 프로젝트는 성격이 급해서 master에 고속도로를 뚫어놓습니다.. 사실 혼자하는 프로젝트에서 스테이지서버가 따로 없다보니 heroku나 vecel에 그냥 올려서 테스트를 하고있습니다.. 양해바랍니다..</p>"
+      
+    ],
     "language":"React",
-    "firstImage":"img/portfolio/react/component.png",
+    "firstImage":"img/portfolio/thd/1.png",
     "DetailImages":[{
-      "image":"img/portfolio/react/1.png",
-      "descriptions":"- 현대백화점 해외브랜드 (COS, AOS, ARKET, TOTEME) 관리 페이지"
+      "image":"img/portfolio/ts/1.jpg",
+      "descriptions":"reqct-query 및 graphQL을 통해 데이터를 가져옴. (PostgreSQL 사용)"
+    },{
+      "image":"img/portfolio/ts/2.jpg",
+      "descriptions":"iframe에서 ref 다루는 기술 및 입력시 실시간 화면 업데이트 처리 (일반 사용자 모드)"
+    },{
+      "image":"img/portfolio/ts/3.jpg",
+      "descriptions":"마크업 개발 및 HTML 요소에 data-target-control를 추가 (개발자 모드)"
+    },{
+      "image":"img/portfolio/ts/4.jpg",
+      "descriptions":"코드 업로드 및 Cloud Flare Direct Upload를 통한 이미지 업로드"
     }]
   },  
   
   {
     "title":"[모바일 전용] THE 0SUN 닷컴 쇼핑몰 개발 (완료 - 마무리진행중)",
     "date":"2022",
-    "content": "<p><a href='https://the.0sun.net'>[ 사이트 바로가기 ]</a></p><p>- 기술스펙 : React, Recoil, GraphQL, Knex, react-query, vite</p><p>- 클라우드 서버 : FRONT - vercel / BACK - heroku, postgresql / Image server - Cloud Flare</p>",
+    "content": [
+    "<p style='font-weight:bold; font-size:18px;'><a href='https://the.0sun.net'>[ 사이트 바로가기 ]</a></p>",
+    "<p>* 이미지 슬라이더를 통해서 설명(토스트)을 참고해주세요!</p>",
+    "<p>- 역할 : 유영선(개발)</p>",
+    "<p>- 기술스펙 : React(Typescript), Recoil, GraphQL, Firebase, react-query, vite</p>",
+    "<p>- 클라우드 서버 : FRONT - vercel / BACK - heroku, Firebase / Image server - Cloud Flare</p>",
+    "<p>- 설명 : 리액트 기반의 최신 라이브러리들을 활용하여 쇼핑몰 개발</p>",
+    "<p>- 도와주신분들 : 이성택 선임님(현대백화점 - 기능 검토 및 조언)</p>",
+    "<p><a href='https://github.com/0sunman/0sunshop'>[ Github 바로가기 ]</a></p>",
+    "<p>* 여럿이서 사용할때는 철저하게 브랜치따서 진행하고 컴플릭을 해결하지만... 혼자 진행하는 프로젝트는 성격이 급해서 master에 고속도로를 뚫어놓습니다.. 사실 혼자하는 프로젝트에서 스테이지서버가 따로 없다보니 heroku나 vecel에 그냥 올려서 테스트를 하고있습니다.. 양해바랍니다..</p>"
+    ],
     "language":"React",
     "firstImage":"img/portfolio/react/1.png",
     "DetailImages":[{
-      "image":"img/portfolio/react/1.png",
-      "descriptions":"- 사이트 개발(React, Recoil, GraphQL, firebase)"
+      "image":"img/portfolio/the0/1.jpg",
+      "descriptions":"스크롤링 애니메이션을 이용하여 메인 애니메이션 생성"
+    },{
+      "image":"img/portfolio/the0/2.jpg",
+      "descriptions":"아폴로서버(GraphQL)을 통해 상품 정보를 가져옴 (Firebase 사용)"
+    },{
+      "image":"img/portfolio/the0/3.jpg",
+      "descriptions":"JWT 기반 로그인 구현"
+    },{
+      "image":"img/portfolio/the0/4.jpg",
+      "descriptions":"상품 상세 페이지 (Recoil 활용)"
+    },{
+      "image":"img/portfolio/the0/5.jpg",
+      "descriptions":"Optimistic 업데이트를 통해 Cart 페이지 구현"
+    },{
+      "image":"img/portfolio/the0/6.jpg",
+      "descriptions":"조건을 통해서 상품이 결제가 진행됨."
     }]
   },  
   
-  {
-    "title":"리액트 토이 프로젝트 - 게시판",
-    "date":"2022",
-    "content":      "<p><a href='https://agile-bastion-92111.herokuapp.com/'>[ 사이트 바로가기 ]</a></p><p>- 기술스펙 : React, Redux, Redux-saga</p><p>- 클라우드 서버 : BACK - heroku, postgresql</p>",
-    "language":"React",
-    "firstImage":"img/portfolio/react/board.jpg",
-    "DetailImages":[{
-      "image":"img/portfolio/react/1.png",
-      "descriptions":
-      "간단한 리액트 기반의 게시판"
-
-    }]
-  },  
 
   {
     "title":"ARKET 리뉴얼 프로젝트 / 사이트 UI개발 / 콘텐츠 관리 / 유지보수",
     "date":"2021 ~",
-    "content": "<p>- 역할: 사이트 UI 개발 지원 및 UI Setup 툴 제공(NodeJS, ejs)/퍼블리싱 지원/글로벌 가이드 점검</p><p> - 성과</p><p>1. UI 개발을 위한 셋업툴 제공을 통해 빠른 세팅을 통한 생산성 향상 (약 1 개월) - 수행사 퍼블리셔가 사용해야 하므로 가장 직관적으로 이해하기 쉬운 ejs 이용</p><p>2. UI 개발 지원을 통해 프로젝트 효율화</p><p>3. COS/Otherstories 운영 경험을 바탕으로 운영 효율화를 통한 생산성 향상(오피셜과 SIS 미러링을 통해 기존 대비 2배 생산성 증가)</p>",
-    "language":"Javascript,CSS,HTML",
+    "content": [
+      "<p style='font-weight:bold; font-size:18px;'><a href='https://www.arket.com/ko-kr/'>[ 사이트 바로가기 ]</a></p>",
+      "<p>- 역할: 마크업 관리 및 운영 & 사이트 UI 개발 지원 및 UI Setup 툴 제공(NodeJS, ejs)/글로벌 가이드 점검</p>",
+      "<b>- 성과</b>",
+      "<p>1. UI 개발을 위한 셋업툴 제공을 통해 빠른 세팅을 통한 생산성 향상 (약 1 개월) - 수행사 개발자가 사용해야 하므로 가장 직관적으로 이해하기 쉬운 ejs 이용</p>",
+      "<p>2. UI 개발 지원을 통해 프로젝트 효율화</p>",
+      "<p>3. COS/Otherstories 운영 경험을 바탕으로 운영 효율화를 통한 생산성 향상(오피셜과 SIS 미러링을 통해 기존 대비 2배 생산성 증가)</p>",
+      "<P style='color:red'>- 현황: 사이트 운영 + 마크업 개발 및 UI 개발 진행 중 </p>"],
+    "language":"Javascript,NodeJS,CSS,HTML",
     "firstImage":"img/portfolio/arket/1.png",
     "DetailImages":[{
       "image":"img/portfolio/arket/1.png",
       "descriptions":
       "ARKET 프로젝트"
+    },{
+      "image":"img/portfolio/arket/2.jpg",
+      "descriptions":
+      "메인페이지 (PC, MO)"
+    },{
+      "image":"img/portfolio/arket/3.jpg",
+      "descriptions":
+      "싱픔페이지 (PC, MO)"
+    },{
+      "image":"img/portfolio/arket/4.jpg",
+      "descriptions":
+      "상품목록 (PC, MO)"
+    },{
+      "image":"img/portfolio/arket/5.jpg",
+      "descriptions":
+      "기타 페이지 (PC, MO)"
     }]
   },  
   {
     "title":"TOTEME 리뉴얼 프로젝트 / 사이트 UI개발 / 콘텐츠 관리 / 유지보수",
     "date":"2021 ~",
-    "content":" <P>- 역할: 사이트 UI 개발 지원 및 UI Setup 툴 제공(NodeJS, ejs)/퍼블리싱 지원/글로벌 가이드 점검 </p><p>- 성과</p><P>1. UI 개발을 위한 셋업툴 제공을 통해 빠른 세팅을 통한 생산성 향상 (약 1 개월) - 수행사 퍼블리셔가 사용해야 하므로 가장 직관적으로 이해하기 쉬운 ejs 이용 </p><P>2. UI 개발 지원을 통해 프로젝트 효율화</p><P>3. COS/Otherstories 운영 경험을 바탕으로 운영 효율화를 통한 생산성 향상</p><P>(오피셜과 SIS 미러링을 통해 기존 대비 2배 생산성 증가)</p>",
+    "content":[
+    "<p style='font-weight:bold; font-size:18px;'><a href='https://kr.toteme-studio.com/'>[ 사이트 바로가기 ]</a></p>",
+    "<P>- 역할: 마크업 개발 및 운영/프론트앤드 지원/글로벌 가이드 점검 </p>",
+    "<b>- 성과</b>",
+    "<P>1. UI 개발을 위한 셋업툴 제공을 통해 빠른 세팅을 통한 생산성 향상 (약 1 개월) - 수행사 개발자가 사용해야 하므로 가장 직관적으로 이해하기 쉬운 ejs 이용 </p>",
+    "<P>2. UI 개발 지원을 통해 프로젝트 효율화</p>",
+    "<P>3. COS/Otherstories 운영 경험을 바탕으로 운영 효율화를 통한 생산성 향상</p>",
+    "<P>(오피셜과 SIS 미러링을 통해 기존 대비 2배 생산성 증가)</p>",
+    "<P style='color:red'>- 현황: 사이트 운영 + 마크업 개발 및 UI 개발 진행 중 </p>",
+    "<p><a href='https://github.com/0sunman/toteme-korea-publish'>[ Github 바로가기 ]</a></p>"],
     "language":"Javascript,CSS,HTML",
     "firstImage":"img/portfolio/toteme/1.jpg",
     "DetailImages":[{
       "image":"img/portfolio/toteme/1.jpg",
       "descriptions":
-      "COS 리뉴얼 프로젝트"      
+      "ARKET 프로젝트"
+    },{
+      "image":"img/portfolio/toteme/2.jpg",
+      "descriptions":
+      "메인페이지 (PC, MO)"
+    },{
+      "image":"img/portfolio/toteme/3.jpg",
+      "descriptions":
+      "싱픔페이지 (PC, MO)"
+    },{
+      "image":"img/portfolio/toteme/4.jpg",
+      "descriptions":
+      "기타페이지 (PC, MO)"
     }]
   },  
   {
     "title":"Hmall UX 팀 R&D : Hmall / The Hyundai 테스팅 자동화 도구 – Monibot",
-    "date":"2019 ~",
-    "content":"<p>- 성과</p><p>1. 모니터링 인력 대체를 통한 비용 절감 (솔루션 및 담당 인력 대체)</p><p>2. 주말 모니터링 인력 대체를 통해 직원들 워라밸 보장</p><p>3. 지속적인 테스트를 통한 운영 사이트 신뢰성 강화</p>",
+    "date":"2019 ~ 2020",
+    "content":[
+    "<p>설명 : 사이트 접속부터 결제까지 자동으로 테스트해주는 bot 프로그램.</p>",
+    "<b>- 성과</b>",
+    "<p>기술 스택 : Monibot Core(Puppeteer), Monibot Controller(NodeJS, Express, Websocket), Monibot 스크립트편집기(React, Redux), 모니터링 툴(React, Redux), Report(Telegram), DB(MongoDB)</p>",
+    "<p>1. 모니터링 인력 대체를 통한 비용 절감 (솔루션 및 담당 인력 대체)</p>",
+    "<p style='font-weight:bold;'>2. 주말 모니터링 인력 대체를 통해 UX팀 직원들 워라밸 보장</p>",
+    "<p>3. 지속적인 테스트를 통한 운영 사이트 신뢰성 강화</p>",
+    "<p>4. Hmall사업본부에서 우수영업지원상 수상</p>"],
     "language":"Monibot Core(Puppeteer), Monibot Controller(NodeJS, Express, Websocket), Monibot 스크립트편집기(React, Redux), 모니터링 툴(React, Redux), Report(Telegram), DB(MongoDB)",
     "firstImage":"img/portfolio/react/1.png",
     "DetailImages":[{
-      "image":"img/portfolio/react/1.png",
+      "image":"img/portfolio/monibot/1.jpg",
       "descriptions":
-      "- 사이트 UI개발(Frontend)"
+      "기획서"
+    },{
+      "image":"img/portfolio/monibot/2.jpg",
+      "descriptions":
+      "puppeteer의 결과를 텔레그램으로 메시지 전송"
+    },{
+      "image":"img/portfolio/monibot/3.jpg",
+      "descriptions":
+      "puppeteer의 결과를 텔레그램으로 메시지 전송"
+    },{
+      "image":"img/portfolio/monibot/4.jpg",
+      "descriptions":
+      "puppeteer의 결과를 텔레그램으로 메시지 전송"
+    },{
+      "image":"img/portfolio/monibot/5.jpg",
+      "descriptions":
+      "Monibot의 업무 role"
     }]
   },  
   {
     "title":"Hmall UX 팀 R&D : 동종업계 사이트 인기 검색어 수집 (2018.10 ~ 2021.02)",
     "date":"2019 ~",
-    "content":"<p>- 구성요소: 검색어 크롤러 / 검색어 사이트 (Vue) / 분석 사이트 (Data 시각화) / DB(MariaDB) </p><p>- 상세사항: 크롤러를 통해 모든 사이트의 인기검색어를 가져와서 DB에 저장 후 표현</p><p>- 성과: 마케팅 전략 자원으로 활용</p>",
+    "content":[
+      "<p>- 구성요소: 검색어 크롤러 / 검색어 사이트 (Vue) / 분석 사이트 (Data 시각화) / DB(MariaDB) </p>",
+      "<p>- 상세사항: 크롤러를 통해 모든 사이트의 인기검색어를 가져와서 DB에 저장 후 표현</p>",
+      "<p>- 성과:</p>",
+      "<p>1. 마케팅 전략 자원으로 활용</p>",
+      "<p>2. 계절 상품 및 시나리오에 따른 수요를 예측</p>",
+      "<p>3. 쌓인 데이터를 통해서 데이터 마이닝 미 데이터 시각화 가능.</p>"],
     "language":"Vue",
     "firstImage":"img/portfolio/vue/1.png",
     "DetailImages":[{
-      "image":"img/portfolio/vue/1.png",
+      "image":"img/portfolio/keyword/1.jpg",
+      "descriptions":
+      "- 경쟁사 인기검색어를 크롤러를 통하여 데이터 수집하고 이를 시각화하는 사이트 구성"      
+    },{
+      "image":"img/portfolio/keyword/2.jpg",
       "descriptions":
       "- 경쟁사 인기검색어를 크롤러를 통하여 데이터 수집하고 이를 시각화하는 사이트 구성"      
     }]
@@ -88,49 +197,181 @@
   {
     "title":"Hmall H&M 브랜드 컨텐츠 관리 및 유지보수",
     "date":"2019 ~",
-    "content":"- 사이트 UI개발(Frontend)<br>- 컨텐츠 관리 및 효율화<br>- Atlassian 솔루션을 이용하여 버젼 관리(Git)",
-    "language":"Javascript,CSS,HTML",
+    "content":[
+      "<p style='font-weight:bold; font-size:18px;'><a href='https://www.thehyundai.com/'>[ hmall 바로가기 ]</a></p>",
+      "<p>역할 : Hmall 내에 H&M 브랜드 입점 지원</p>",
+      "<p>- 사이트 UI개발(Frontend)</p>",
+      "<p>- 컨텐츠 관리 및 효율화</p>",
+      "<p>- Git Atlassian(Jira, Bitbucket, Bamboo) 솔루션을 이용하여 버젼 관리(SVN, oaura)</p>"
+
+    ],
+    "language":"Javascript,CSS,HTML,NodeJS",
     "firstImage":"img/portfolio/hmall/1.png",
     "DetailImages":[{
       "image":"img/portfolio/hmall/1.png",
       "descriptions":
-      "<p>- Hmall H&M 관련 UI개발 및 콘텐츠 관리</p>"
+      "<p>- Hmall UI개발 지원 (2020)</p>"
+    },{
+      "image":"img/portfolio/hmall/2.jpg",
+      "descriptions":
+      "<p>- H&M 관련 UI개발 및 콘텐츠 관리 (2019~현재)</p>"
+    },{
+      "image":"img/portfolio/hmall/3.jpg",
+      "descriptions":
+      "<p>- Hmall 상품목록 - H&M 브랜드 검색</p>"
+    },{
+      "image":"img/portfolio/hmall/4.jpg",
+      "descriptions":
+      "<p>- Hmall H&M 상품상세</p>"
+    },{
+      "image":"img/portfolio/hmall/5.jpg",
+      "descriptions":
+      "<p>- Hmall H&M 브랜드 입점</p>"
     }]
   },  
   {
     "title":"더현대닷컴 H&M 브랜드 컨텐츠 관리 및 유지보수",
     "date":"2018 ~",
-    "content":"- 사이트 UI개발(Frontend)<br>- 컨텐츠 관리 및 효율화<br>- Atlassian 솔루션을 이용하여 버젼 관리(Git)",
+    "content":[
+      "<p style='font-weight:bold; font-size:18px;'><a href='https://www.thehyundai.com/'>[ 사이트 바로가기 ]</a></p>",
+      "<p>역할 : 더현대닷컴 내에 H&M 브랜드 입점 지원</p>",
+      "<p>- 더현대닷컴 마크업개발 업무(부)</p>",
+      "<p>- 사이트 UI개발(Frontend)</p>",
+      "<p>- 이벤트페이지 제작</p>",
+      "<p>- Git Atlassian(Jira, Bitbucket, Bamboo) 솔루션을 이용하여 버젼 관리(SVN, oaura)</p>"
+    ],
     "language":"Javascript,CSS,HTML",
     "firstImage":"img/portfolio/thehyundai/1.png",
     "DetailImages":[{
       "image":"img/portfolio/thehyundai/1.png",
       "descriptions":
+      "<p>- 더현대닷컴 UI개발 및 콘텐츠 관리(부)</p>"
+    },{
+      "image":"img/portfolio/thehyundai/2.jpg",
+      "descriptions":
       "<p>- 더현대닷컴 H&M 관련 UI개발 및 콘텐츠 관리</p>"
+    },{
+      "image":"img/portfolio/thehyundai/3.jpg",
+      "descriptions":
+      "<p>- 더현대닷컴 상품 목록</p>"
+    },{
+      "image":"img/portfolio/thehyundai/4.jpg",
+      "descriptions":
+      "<p>- 더현대닷컴 H&M 브랜드 입점</p>"
     }]
   },  
   {
-    "title":"COS 리뉴얼 프로젝트 / 사이트 UI개발 / 콘텐츠 관리 / 유지보수",
+    "title":"COS 사이트 프론트앤드 및 마크업개발 및 운영 / 퍼블리싱 / 사이트 UI개발 / 리뉴얼 프로젝트 진행 / 콘텐츠 관리 / 유지보수",
     "date":"2018 ~",
-    "content":"- COS 리뉴얼 프로젝트<br>- 사이트 UI개발(Frontend)<br>- 컨텐츠 관리 및 효율화<br>- 사이트 성능 향상 진행 (기존대비 50% 효율 향상)",
-    "language":"Javascript,CSS,HTML",
+    "content":[
+      
+    "<p style='font-weight:bold; font-size:18px;'><a href='https://www.cos.com/ko-kr/'>[ 사이트 바로가기 ]</a></p>",
+    "<p>- 역할 : COS 사이트 마크업개발 및 프론트앤드 운영/관리</p>",
+    "<p>- 사이트 UI개발(Frontend)</p>",
+    "<p>- 컨텐츠 관리 효율화(NodeJS를 활용하여 성능 최적화 및 생산성 효율화)</p>",
+    "<p>- 사이트 내에 Javascript, HTML, CSS 관리</p>",
+    "<p>- ab-test 지원</p>",
+    "<p>- COS 리뉴얼 프로젝트 참여 (2018년 - 역할 : UI개발/마크업개발지원/글로벌가이드체크)</p>",
+    "<p>- 사이트 성능 향상 프로젝트 진행 (2019년) (기존대비 70% 효율 향상 Google LightHouse 기준)</p>",
+    "<p>- 이용자 폭주 솔루션 (메가팬스) 도입 (2019년)</p>",
+    "<p>- 사이트 디자인 라뉴얼 진행 (2018, 2019, 2021)</p>"
+  
+    ],
+    "language":"Javascript,CSS,HTML,NodeJS",
     "firstImage":"img/portfolio/cos/1.png",
     "DetailImages":[{
       "image":"img/portfolio/cos/1.png",
       "descriptions":
       "<p>- COS 사이트 UI개발 및 콘텐츠 관리</p>"
+    },{
+      "image":"img/portfolio/cos/2.jpg",
+      "descriptions":
+      "<p>- 스타트페이지 (메인페이지)</p>"
+    },{
+      "image":"img/portfolio/cos/3.jpg",
+      "descriptions":
+      "<p>- 스타트페이지 (메인페이지)</p>"
+    },{
+      "image":"img/portfolio/cos/4.jpg",
+      "descriptions":
+      "<p>- 상품 PLP (랜딩페이지)</p>"
+    },{
+      "image":"img/portfolio/cos/5.jpg",
+      "descriptions":
+      "<p>- 상품 PDP 상품상세</p>"
+    },{
+      "image":"img/portfolio/cos/6.jpg",
+      "descriptions":
+      "<p>- 매거진(explore)</p>"
+    },{
+      "image":"img/portfolio/cos/7.jpg",
+      "descriptions":
+      "<p>- 매거진(explore)</p>"
+    },{
+      "image":"img/portfolio/cos/8.jpg",
+      "descriptions":
+      "<p>- 매거진(explore)</p>"
+    },{
+      "image":"img/portfolio/cos/9.jpg",
+      "descriptions":
+      "<p>- 매거진(explore)</p>"
+    },{
+      "image":"img/portfolio/cos/10.jpg",
+      "descriptions":
+      "<p>- H&M(COS, Stories, ARKET) 현대백화점 방문(2022)</p>"
+    },{
+      "image":"img/portfolio/cos/11.jpg",
+      "descriptions":
+      "<p>- COS 리뉴얼 프로젝트</p>"
     }]
   },  
   {
     "title":"AOS 사이트 UI개발 / 콘텐츠 관리 / 유지보수",
     "date":"2018 ~",
-    "content":"<br>- 사이트 UI개발(Frontend)<br>- 컨텐츠 관리 및 효율화<br>- 사이트 성능 향상 진행 (기존대비 50% 효율 향상)",
+    "content":[
+      "<p style='font-weight:bold; font-size:18px;'><a href='https://www.stories.com/ko-kr/'>[ 사이트 바로가기 ]</a></p>",
+      "<p>- 역할 : Stories 사이트 마크업개발 및 프론트앤드 운영/관리</p>",
+      "<p>- 사이트 UI개발(Frontend)</p>",
+      "<p>- 컨텐츠 관리 및 효율화(NodeJS를 활용하여 성능 최적화 및 생산성 효율화)</p>",
+      "<p>- 사이트 내에 Javascript, HTML, CSS 관리</p>",
+      "<p>- 앤아더 스토리즈 검색 SEO 개선(2018)</p>",
+      "<p>- 앤아더 스토리즈 디자인 개편(2018, 2020)</p>",
+      "<p>- 앤아더 스토리즈 카카오톡 로그인 프로젝트 (2020)</p>"
+    ],
     "language":"Javascript,CSS,HTML",
     "firstImage":"img/portfolio/aos/1.png",
     "DetailImages":[{
       "image":"img/portfolio/aos/1.png",
       "descriptions":
       "<p>- AOS 사이트 UI개발 및 콘텐츠 관리</p>"
+    },{
+      "image":"img/portfolio/aos/2.jpg",
+      "descriptions":
+      "<p>- 메인페이지 (스타트페이지) / 상단 커스터마이징 진행</p>"
+    },{
+      "image":"img/portfolio/aos/3.jpg",
+      "descriptions":
+      "<p>- 여성 PDP (상품목록)</p>"
+    },{
+      "image":"img/portfolio/aos/4.jpg",
+      "descriptions":
+      "<p>- 여성 PLP (상품상세)</p>"
+    },{
+      "image":"img/portfolio/aos/5.jpg",
+      "descriptions":
+      "<p>- 랜딩페이지 (이벤트/기획전)</p>"
+    },{
+      "image":"img/portfolio/aos/6.jpg",
+      "descriptions":
+      "<p>- 메인페이지 (스타트페이지)</p>"
+    },{
+      "image":"img/portfolio/aos/7.jpg",
+      "descriptions":
+      "<p>- AOS 현대홈쇼핑 방문 (2019)</p>"
+    },{
+      "image":"img/portfolio/aos/8.jpg",
+      "descriptions":
+      "<p>- AOS 현대홈쇼핑 방문 (2019)</p>"
     }]
   },
   {
