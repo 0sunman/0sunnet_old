@@ -1,12 +1,14 @@
 [
   {
-    "title":"해외브랜드 컴포넌트 관리 툴 개발 (진행중)",
+    "title":"해외브랜드 컴포넌트 관리 툴 개발 (현재 개발 진행중)",
     "date":"2022",
     "content": 
     [
-      "<p style='font-weight:bold; font-size:18px;'><a href='https://ts.0sun.net'>[ 사이트 바로가기 ]</a></p>",
+      "<p style='font-weight:bold; font-size:18px;'><a href='https://ts.thehyundai.works'>[ 사이트 바로가기 ]</a></p>",
       "<p>- 역할 : 유영선(기획&개발) </p>",
-      "<p>- 설명 : HTML 요소에 data-target-control를 추가하여 비개발인력에게 편집가능한 마크업코드 전달</p>",
+      "<p>- 설명 : 기존 React(ES6)/Redux 구조로 이루어진 내부 컴포넌트 툴을 React/Typescript/Recoil/React-Query 기반으로 변경함.",
+      "<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspHTML 요소에 data-target-control를 추가하여 비개발인력에게 편집가능한 마크업코드 전달</p>",
+      "<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp매장직원들을 위한 홈페이지 빌더로 확장하여 O4O를 실현 (Qr코드를 통하여 고객이 홈페이지로 접근)</p>",
       "<p>- 기술스펙 : React(Typescript), Recoil, GraphQL, Knex, Cloud-Flare Image, react-query, vite</p>",
       "<p>- 클라우드 서버 : FRONT - vercel / BACK - heroku, postgresql / Image server - Cloud Flare</p>",
       "<p>- 도와주신분들 : 박일묵 책임님(현대백화점 - 피드백) / 박수진 선임님(현대백화점 - 아이디어 제공)</p>",
