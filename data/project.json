@@ -1,5 +1,30 @@
 [
   {
+    "title":"현대백화점 해외브랜드 UI관리 - 리액트 전환",
+    "date":"2022",
+    "content": 
+    [
+      "<p style='font-weight:bold; font-size:18px;'><a href='https://0sunman.github.io/hnm_hyundai/'>[ 사이트 바로가기 ]</a></p>",
+      "<p>- 역할 : 유영선(기획&개발) </p>",
+      "<p>- 설명 : 기존 HTML로 작업했던 UI개발을 완전히 React기반으로 변경함.",
+      "<p>- 기술스펙 : React, Redux, Webpack</p>",
+      "<p>- Only Web 기반 (Github 페이지 활용) / Webpack과 HashRouter로 페이지 개발</p>",
+      "<p>- Webpack 설정을 통해 HTML으로 통합 번들링 및 브라우저 가능한 곳에서 높은 호환성을 보임.</p>",
+      "<p><a href='https://github.com/0sunman/hnm_hyundai'>[ Github 바로가기 ]</a></p>",
+      "<p>* 여럿이서 사용할때는 철저하게 브랜치따서 진행하고 컴플릭을 해결하지만... 혼자 진행하는 프로젝트는 성격이 급해서 master에 고속도로를 뚫어놓습니다.. 사실 혼자하는 프로젝트에서 스테이지서버가 따로 없다보니 heroku나 vecel에 그냥 올려서 테스트를 하고있습니다.. 양해바랍니다..</p>"
+      
+    ],
+    "language":"React",
+    "firstImage":"img/portfolio/thd/1.png",
+    "DetailImages":[{
+      "image":"img/portfolio/reactproject/1.jpg",
+      "descriptions":"브랜드 선택 화면"
+    },{
+      "image":"img/portfolio/reactproject/2.jpg",
+      "descriptions":"상세 화면 (현재 개발 진행중)"
+    }]
+  },  
+  {
     "title":"해외브랜드 컴포넌트 관리 툴 개발 (현재 개발 진행중)",
     "date":"2022",
     "content": 
